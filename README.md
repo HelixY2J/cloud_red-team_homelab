@@ -4,7 +4,7 @@ Deploy an attack/defend homelab.
 # Topology 
 Provider: AWS.
 
-![Topology]
+![Topology](https://github.com/HelixY2J/cloud_red-team_homelab/blob/main/img/topology_homelab.png)
 
 
 
